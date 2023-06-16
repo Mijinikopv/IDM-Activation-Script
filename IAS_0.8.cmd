@@ -418,7 +418,7 @@ exit /b
 :register_IDM
 
 echo:
-set /p name="What is the name to be registered?"
+set /p name="What is the name to be registered:   "
 
 echo:
 echo Applying registration details...
